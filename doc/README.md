@@ -19,3 +19,9 @@ install package
 ```bash
 npm i class-validator class-transformer
 ```
+
+## Docker command
+
+```bash
+docker-compose up -d
+```
